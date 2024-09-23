@@ -1,0 +1,11 @@
+C:\Users\hrome\source\repos\POOE-Virtual-2024\PrimerProyecto\PrimerProyecto\obj\Debug\PrimerProyecto.vbproj.AssemblyReference.cache
+C:\Users\hrome\source\repos\POOE-Virtual-2024\PrimerProyecto\PrimerProyecto\obj\Debug\PrimerProyecto.Resources.resources
+C:\Users\hrome\source\repos\POOE-Virtual-2024\PrimerProyecto\PrimerProyecto\obj\Debug\PrimerProyecto.vbproj.GenerateResource.cache
+C:\Users\hrome\source\repos\POOE-Virtual-2024\PrimerProyecto\PrimerProyecto\obj\Debug\PrimerProyecto.vbproj.CoreCompileInputs.cache
+C:\Users\hrome\source\repos\POOE-Virtual-2024\PrimerProyecto\PrimerProyecto\bin\Debug\PrimerProyecto.exe.config
+C:\Users\hrome\source\repos\POOE-Virtual-2024\PrimerProyecto\PrimerProyecto\bin\Debug\PrimerProyecto.exe
+C:\Users\hrome\source\repos\POOE-Virtual-2024\PrimerProyecto\PrimerProyecto\bin\Debug\PrimerProyecto.pdb
+C:\Users\hrome\source\repos\POOE-Virtual-2024\PrimerProyecto\PrimerProyecto\bin\Debug\PrimerProyecto.xml
+C:\Users\hrome\source\repos\POOE-Virtual-2024\PrimerProyecto\PrimerProyecto\obj\Debug\PrimerProyecto.exe
+C:\Users\hrome\source\repos\POOE-Virtual-2024\PrimerProyecto\PrimerProyecto\obj\Debug\PrimerProyecto.xml
+C:\Users\hrome\source\repos\POOE-Virtual-2024\PrimerProyecto\PrimerProyecto\obj\Debug\PrimerProyecto.pdb

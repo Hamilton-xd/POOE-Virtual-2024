@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hrome\\Desktop\\POOE-Virtual-2024\\PrimerProyecto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{416BA708-5E40-4B1E-8EBC-E3252F74B682}|PrimerProyecto\\PrimerProyecto.vbproj|c:\\users\\hrome\\desktop\\pooe-virtual-2024\\primerproyecto\\primerproyecto\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{416BA708-5E40-4B1E-8EBC-E3252F74B682}|PrimerProyecto\\PrimerProyecto.vbproj|solutionrelative:primerproyecto\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\Users\\hrome\\Desktop\\POOE-Virtual-2024\\PrimerProyecto\\PrimerProyecto\\Module1.vb",
+              "RelativeDocumentMoniker": "PrimerProyecto\\Module1.vb",
+              "ToolTip": "C:\\Users\\hrome\\Desktop\\POOE-Virtual-2024\\PrimerProyecto\\PrimerProyecto\\Module1.vb",
+              "RelativeToolTip": "PrimerProyecto\\Module1.vb",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAAAIIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-23T01:05:58.967Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
