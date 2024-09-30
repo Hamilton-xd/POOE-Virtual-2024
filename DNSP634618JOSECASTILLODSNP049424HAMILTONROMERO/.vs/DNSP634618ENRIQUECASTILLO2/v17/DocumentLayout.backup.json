@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hrome\\Downloads\\DNSP634618JOSECASTILLODSNP049424HAMILTONROMERO\\DNSP634618JOSECASTILLODSNP049424HAMILTONROMERO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDC2428D-ECBD-4364-9C4F-CA2C365A66BF}|DNSP634618ENRIQUECASTILLO2\\DNSP634618ENRIQUECASTILLO2.vbproj|c:\\users\\hrome\\downloads\\dnsp634618josecastillodsnp049424hamiltonromero\\dnsp634618josecastillodsnp049424hamiltonromero\\dnsp634618enriquecastillo2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DDC2428D-ECBD-4364-9C4F-CA2C365A66BF}|DNSP634618ENRIQUECASTILLO2\\DNSP634618ENRIQUECASTILLO2.vbproj|solutionrelative:dnsp634618enriquecastillo2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDC2428D-ECBD-4364-9C4F-CA2C365A66BF}|DNSP634618ENRIQUECASTILLO2\\DNSP634618ENRIQUECASTILLO2.vbproj|C:\\Users\\hrome\\Downloads\\DNSP634618JOSECASTILLODSNP049424HAMILTONROMERO\\DNSP634618JOSECASTILLODSNP049424HAMILTONROMERO\\dnsp634618enriquecastillo2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{DDC2428D-ECBD-4364-9C4F-CA2C365A66BF}|DNSP634618ENRIQUECASTILLO2\\DNSP634618ENRIQUECASTILLO2.vbproj|solutionrelative:dnsp634618enriquecastillo2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\hrome\\Downloads\\DNSP634618JOSECASTILLODSNP049424HAMILTONROMERO\\DNSP634618JOSECASTILLODSNP049424HAMILTONROMERO\\DNSP634618ENRIQUECASTILLO2\\Form1.vb",
+              "RelativeDocumentMoniker": "DNSP634618ENRIQUECASTILLO2\\Form1.vb",
+              "ToolTip": "C:\\Users\\hrome\\Downloads\\DNSP634618JOSECASTILLODSNP049424HAMILTONROMERO\\DNSP634618JOSECASTILLODSNP049424HAMILTONROMERO\\DNSP634618ENRIQUECASTILLO2\\Form1.vb",
+              "RelativeToolTip": "DNSP634618ENRIQUECASTILLO2\\Form1.vb",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAAAL0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-29T16:22:04.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hrome\\Downloads\\DNSP634618JOSECASTILLODSNP049424HAMILTONROMERO\\DNSP634618JOSECASTILLODSNP049424HAMILTONROMERO\\DNSP634618ENRIQUECASTILLO2\\Form1.vb",
+              "RelativeDocumentMoniker": "DNSP634618ENRIQUECASTILLO2\\Form1.vb",
+              "ToolTip": "C:\\Users\\hrome\\Downloads\\DNSP634618JOSECASTILLODSNP049424HAMILTONROMERO\\DNSP634618JOSECASTILLODSNP049424HAMILTONROMERO\\DNSP634618ENRIQUECASTILLO2\\Form1.vb [Dise\u00F1o]",
+              "RelativeToolTip": "DNSP634618ENRIQUECASTILLO2\\Form1.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-29T15:42:02.886Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
